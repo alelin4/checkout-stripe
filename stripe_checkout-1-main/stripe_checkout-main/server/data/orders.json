@@ -1,0 +1,13 @@
+[
+  {
+    "created": 1695021041,
+    "customer": "Sofia",
+    "products": [
+      {
+        "product": "Macbook Air",
+        "price": 12500,
+        "quantity": 1
+      }
+    ]
+  }
+]

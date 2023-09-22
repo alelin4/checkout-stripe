@@ -1,0 +1,26 @@
+[
+  {
+    "username": "as",
+    "password": "$2b$15$bEWwkyRKjdlD.2wWZaBeXucvQhStYYYvwo8Aol0tT2fT2DNJXuflW",
+    "email": "as@gmail.com",
+    "stripeCustomerId": "cus_OgacPiVdC2JSNe"
+  },
+  {
+    "username": "Alex",
+    "password": "$2b$15$nwzkR1q2EbzGv5ONmucJVuAKD.wSkai0CvXrcTy5g/XAxkXRVIqk6",
+    "email": "Alex@mail.com",
+    "stripeCustomerId": "cus_Ogb3iTFGvIRKuM"
+  },
+  {
+    "username": "Alexs",
+    "password": "$2b$15$HDmW9pPIzilcCpoDko9lU.qGlLKvNGZAlL9CL1zvL0d2aDYOcZ5LO",
+    "email": "Alexs@gmail.com",
+    "stripeCustomerId": "cus_Ogb51iLuwyC3yR"
+  },
+  {
+    "username": "Albin",
+    "password": "$2b$15$oiB6fviLvi147N2wUbwKIeVMQcylPl9E8.IoUV9cMrlqPLFK/aiUi",
+    "email": "Albin@gmail.com",
+    "stripeCustomerId": "cus_OgbBYGFqfdXlgB"
+  }
+]

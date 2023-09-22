@@ -1,0 +1,54 @@
+/* Main container */
+.login-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+/* Login Section */
+.login-header > div:nth-child(1) {
+  padding: 10px;
+}
+
+.login-header > div:nth-child(1) input {
+  margin-bottom: 10px;
+}
+
+.login-button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.login-button:hover {
+  background-color: #2980b9;
+}
+
+/* Information Section */
+.login-headers {
+  text-align: center;
+  padding: 10px;
+}
+
+/* Registration Section */
+.login-header > div:nth-child(3) {
+  padding: 10px;
+}
+
+.login-header > div:nth-child(3) input {
+  margin-bottom: 10px;
+}
+
+.login-btn {
+  padding: 10px 20px;
+  background-color: #27ae60;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.login-btn:hover {
+  background-color: #219653;
+}
