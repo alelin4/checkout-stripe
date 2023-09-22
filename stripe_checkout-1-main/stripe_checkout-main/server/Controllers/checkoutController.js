@@ -18,7 +18,6 @@ const checkoutController = async (req, res) => {
       mode: "payment",
       success_url: `${CLIENT_URL}/confirmation`,  // URL to redirect on success
       cancel_url: CLIENT_URL,  // URL to redirect on cancellation
-      allow_promotion_codes: true,
     });
 
     // Return session URL and ID to the client
